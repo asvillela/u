@@ -10,7 +10,10 @@ Instead of Companies filtering Candidates' CVs, this tool enables you to ***filt
 **u!** has a database of startups companies and a classification of the most relevant keywords related to each company. Then, you will upload your CV, and the tool will identify what is important to **u!**  
 Finally, the tool will identify the startup companies with the best fit with your CV, and draft cover letters designed to each of those companies, personalized with your skills and experiences!  
 
-Give it a shot and good luck with your job hunting!
+Give it a shot and good luck with your job hunting!  
+
+*This project was submitted to the **AI_ immersion** contest realized by **Alura** in partnership with **Google** during May 2024.*
+
 
 # (pt) **Procurando emprego em uma startup?**<br> Essa é a ferramenta para você!
 
@@ -24,6 +27,9 @@ A ferramenta **u!** tem uma base de dados de startups e uma classificação das 
 Finalmente, a ferramenta identificará quais são as startups que se encaixam melhor com o **seu** perfil, e criará rascunhos de Cover Letters especificamente para cada uma dessas empresas, personalizadas com suas habilidades e experiências!  
 
 Boa sorte com sua busca de emprego!
+
+*Esse projeto foi submetido para o concurso realizado em Maio 2024 pela **imersão AI_** realizado pela **Alura** em parceria com o **Google**.*
+
 
 
 
